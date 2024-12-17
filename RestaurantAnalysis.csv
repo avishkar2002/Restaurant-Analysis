@@ -1,0 +1,116 @@
+﻿Name,Online_order,book_table,rate,votes,Approx_Cost,Type,City
+Papeto,No,Yes,2.9,140,1500,Dining,Ahmadabad
+Hocco Eatery,Yes,No,3.9,912,500,Restaurant,Ahmadabad
+Tea Spot,Yes,No,4.3,1700,300,Café,Ahmadabad
+Shree manchurian Klathiyawadi,Yes,No,3.6,9400,400,Restaurant,Ahmadabad
+House Of yanki,Yes,No,4.3,154,500,Restaurant,Ahmadabad
+Grazia Millet,Yes,No,3.4,12,800,Restaurant,Ahmadabad
+Bhullars Butter Chicken,Yes,Yes,4,1800,600,Dining,Ahmadabad
+Squad Café,Yes,No,4.1,7,200,Restaurant,Ahmadabad
+Amul Ice Lounge,Yes,No,4.1,73,500,Restaurant,Ahmadabad
+Burgoraa,Yes,No,4.1,12,300,Café,Ahmadabad
+Dollar Pie Pizza,Yes,Yes,2.2,100,700,Restaurant,Ahmadabad
+Hotel 440,Yes,No,2.2,102,600,Restaurant,Ahmadabad
+Onlu Qureshi Veg,Yes,No,3.8,8200,840,Restaurant,Ahmadnagar
+Hotel Pingara,Yes,Yes,3.9,7700,600,Dining,Ahmadnagar
+Hotel New Ranjit Family,Yes,Yes,4.5,1100,3200,Dining,Ahmadnagar
+Hotel Suvarnam,Yes,Yes,3.9,1300,600,Dining,Ahmadnagar
+Thapers Café,Yes,No,4.3,3000,500,Café,Ahmadnagar
+Hotel Pragati,Yes,No,4.2,4800,500,Restaurant,Ahmadnagar
+Chappan Bhog Thali,Yes,No,4.3,792,320,Restaurant,Ahmadnagar
+Hotel Sarang,Yes,No,4.3,3600,400,Restaurant,Ahmadnagar
+Friends Chinese,Yes,No,3.8,152,320,Restaurant,Ahmadnagar
+Akkys Burgers,Yes,No,4.3,18600,400,Restaurant,Ahmadnagar
+Royal Chinese & Pav bhaji,Yes,No,4.1,10004,290,Restaurant,Ahmadnagar
+Biryani By kilo,Yes,No,4.1,11100,900,Restaurant,Delhi
+Apni Rasoi,Yes,No,4,9400,500,Restaurant,Delhi
+Creative Chef,Yes,No,4,1900,500,Restaurant,Delhi
+No1 Uncles Paratha,Yes,No,3.5,874,200,Restaurant,Delhi
+Cake & Cream,Yes,No,4,3600,600,Restaurant,Delhi
+LalyasShwarma,Yes,No,4.1,7200,700,Restaurant,Delhi
+Ichiban,Yes,No,3.9,1500,1100,Restaurant,Delhi
+Moets kulfi,Yes,No,3.4,59,500,Restaurant,Delhi
+The Cake Shine,Yes,No,3.6,1900,500,Restaurant,Delhi
+Minar,Yes,No,4.2,972,1200,Restaurant,Delhi
+WITC Wok In The Clouds,Yes,Yes,4.2,71,1400,Dining,Delhi
+Chicken Inn,Yes,No,4.1,1000,1400,Restaurant,Delhi
+Snowberry Artisanal,Yes,No,4.1,48,600,Restaurant,Delhi
+Gulati,Yes,No,4.3,19100,1400,Restaurant,Delhi
+Havemore,No,Yes,4.2,4100,1400,Restaurant,Delhi
+Apsara Ice Cream,No,Yes,2.2,200,400,Café,Delhi
+Big Bowl,Yes,No,3.9,548,700,Restaurant,Delhi
+La Pizos Vapi,Yes,No,3.8,1400,400,Restaurant,Vapi
+Bageecha Restaurant,Yes,No,3.9,524,300,Restaurant,Vapi
+Glorious Choco Pub,Yes,No,3.4,378,400,Restaurant,Vapi
+Tasty Food,Yes,No,3.8,87,150,Restaurant,Vapi
+Bombay Fast Food,Yes,No,2.2,250,400,Restaurant,Vapi
+Tibbs Frankies ,Yes,Yes,3.7,1300,400,Restaurant,Thane
+Charcoal Eats,Yes,No,4.3,4300,800,Dining,Thane
+Nothing But Chicken,Yes,No,4.3,1200,500,Dining,Thane
+Vansh Kitchen,Yes,No,4,209,2500,Restaurant,Thane
+Dadi Ki Rasoi,Yes,No,3.8,69,500,Restaurant,Thane
+Chinese Wok,Yes,No,3.8,5200,800,Restaurant,Thane
+The Dang Bottle,Yes,Yes,3.8,615,600,Restaurant,Thane
+The Dineyard ,Yes,No,4.1,858,700,Restaurant,Thane
+Goila Butter Chicken ,Yes,No,3.5,1400,800,Restaurant,Thane
+Pizza Hut Thane,Yes,No,3.5,7700,400,Restaurant,Thane
+Sreeraj Lassi Bar,Yes,No,4.3,1200,300,Restaurant,Banglore
+Aubree,Yes,Yes,4.4,1700,600,Restaurant,Banglore
+Bobs Bar,Yes,Yes,3.9,3500,500,Restaurant,Banglore
+Truffles,Yes,No,4.5,15900,500,Restaurant,Banglore
+Aunties Fungs,Yes,No,3.6,4500,700,Restaurant,Banglore
+Narmada Chain Of Restaurant,Yes,No,4.2,9700,750,Restaurant,Banglore
+Madras Meal Company Banglore,Yes,No,4.2,727,400,Restaurant,Banglore
+Nandhana Palace,Yes,No,3.8,13500,700,Restaurant,Banglore
+Raffaeles Ristorantee,Yes,No,3.9,1900,900,Restaurant,Banglore
+Bub It Boba Tea,Yes,No,3.9,131,500,Restaurant,Banglore
+Litti Twist,Yes,No,4,15100,300,Restaurant,Banglore
+Cha cha Ka Chat,Yes,No,4,8,400,Restaurant,Banglore
+Khichadi By Protein Chief,Yes,No,4.1,15,400,Restaurant,Banglore
+Muro,No,Yes,4.2,350,2800,Dining,Banglore
+Magique,No,Yes,4,5494,1700,Dining,Banglore
+Byg Brewski Brewing,No,Yes,4.3,7545,1600,Dining,Banglore
+Babylonia Global Food,No,Yes,4.3,1880,1500,Dining,Banglore
+The Scene Craft Kitchen,No,Yes,4.2,2366,1550,Dining,Banglore
+Glass Kitchen Bar,No,Yes,4.5,346,2800,Dining,Banglore
+KOKO,No,Yes,4.6,673,3500,Dining,Banglore
+Gillys Restrobar,No,Yes,4.2,1264,1500,Dining,Banglore
+Terrace By House,No,Yes,4.5,5585,2000,Dining,Banglore
+Smoke House Deli,No,Yes,4.6,3982,1800,Dining,Banglore
+Foo Brigade,No,Yes,4.7,1376,2000,Dining,Banglore
+Over Coffe Café,No,Yes,4.7,964,1200,Café,Banglore
+Hard Rock Café Banglore,No,Yes,4.6,9248,2500,Café,Banglore
+Go native,No,Yes,4.7,325,1200,Dining,Banglore
+Tamasha ,No,Yes,4.3,12894,2500,Dining,Delhi
+Q Vinn laa,No,Yes,4.1,100,2500,Dining,Delhi
+Shishi Delhi,No,Yes,4.6,4,3000,Dining,Delhi
+Music & Mountains hillside,No,Yes,4.6,8023,2800,Dining,Delhi
+Cedar Club House,No,Yes,4.2,1226,1800,Dining,Delhi
+FIO Cookhouse Bar,No,Yes,4.4,2668,3400,Dining,Delhi
+Ce la Via Kitchen,No,Yes,4.2,3755,2200,Dining,Delhi
+kebab house,No,Yes,4.2,61,2000,Dining,Delhi
+Drama,No,Yes,4.3,1096,1500,Dining,Delhi
+Donzo Pan Asian kithchen,No,Yes,4.5,627,1400,Dining,Delhi
+Somewhere Restaurant,No,Yes,4.2,2606,2000,Dining,Delhi
+2BHK Diner & Key bar,No,Yes,4.3,2123,3000,Dining,Pune
+The game palcio,No,Yes,4.5,726,1400,Dining,Pune
+Epitome,No,Yes,4.3,109,1600,Dining,Pune
+AMBERSARIYA,No,Yes,4.6,427,1000,Dining,Pune
+Mamagoto,No,Yes,4.5,2332,1200,Dining,Pune
+Feast Sheraton,No,Yes,4.3,1212,4000,Dining,Pune
+Millers The Luxury Club,No,Yes,4.2,1510,1900,Dining,Pune
+World of Veg,No,Yes,4.2,1510,1800,Dining,Pune
+Cobbo caffe & bar,No,Yes,3.7,48,1500,Dining,Pune
+Da'nonna Pizzeria,No,Yes,4.3,1018,900,Dining,Pune
+Karma Kitchen,Yes,Yes,4.5,90,400,Restaurant,Pune
+Shree Ganesh Restaurant,Yes,Yes,4,2945,400,Restaurant,Pune
+Namah,Yes,No,4,1422,600,Café,Pune
+Radhe hotel,Yes,Yes,4.2,1116,500,Restaurant,Dhule
+pritam palace,Yes,Yes,4.2,2350,800,Dining,Dhule
+nalanda veg,Yes,Yes,3.8,1422,500,Dining,Dhule
+krishna pure veg,Yes,Yes,4,960,500,Dining,Dhule
+The Eau Ba,No,Yes,4.4,232,2500,Café,Mumbai
+Shreeji's,Yes,No,3,1,500,Restaurant,Mumbai
+Sea Lounge,No,Yes,4.6,1000,3000,Restaurant,Mumbai
+Mother’s Kitchen,No,No,3,1253,600,Restaurant,Mumbai
+Bayview Café,No,Yes,4.3,123,1500,Café,Mumbai
